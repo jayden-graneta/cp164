@@ -1,0 +1,65 @@
+"""
+-------------------------------------------------------
+[Function list]
+-------------------------------------------------------
+Author: Jayden Graneta
+ID: 169058740
+Email: gran8740@mylaurier.ca
+__updated__ = "2024-01-09"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def clean_list(values):
+    """
+    -------------------------------------------------------
+    Removes all duplicate values from a list: values contains
+    only one copy of each of its integers. The order of values
+    must be preserved.
+    Use: clean_list(values)
+    -------------------------------------------------------
+    Parameters:
+        values - a list of integers (list of int)
+    Returns:
+        None
+    -------------------------------------------------------
+    """
+    single = set()
+    x = 0
+
+    while x < len(values):
+        if values[x] not in single:
+            single.add(values[x])
+            x += 1
+        else:
+            values.pop(x)
+
+    return
+
+
+def list_subtraction(minuend, subtrahend):
+    """
+    -------------------------------------------------------
+    Alters the contents of minuend so that it does not contain
+    any values in subtrahend.
+    i.e. the values in the first list that appear in the second list
+    are removed from the first list.
+    Use: list_subtraction(minuend, subtrahend)
+    -------------------------------------------------------
+    Parameters:
+        minuend - a list of values (list)
+        subtrahend - a list of values to not include in difference (list)
+    Returns:
+        None
+    ------------------------------------------------------
+    """
+    x = 0
+
+    for x in range(len(minuend)):
+        if minuend[x] == subtrahend:
+            minuend.pop(x)
+
+    return

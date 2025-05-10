@@ -1,0 +1,264 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayden Rey Graneta
+ID: 169058740
+Email: gran8740@mylaurier.ca
+Version: 2024-01-19
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+True
+10
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+[1, 2, 3, 4, 5]
+[1, 2, 3, 4, 5]
+None
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[10, 3, 4, 5]
+[3, 10, 4, 5]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+is_empty is True
+inserted Lasagna|7|False|135
+
+is_empty() is False
+Lasagna|7|False|135
+
+inserted Butter Chicken|2|False|490
+
+is_empty() is False
+Butter Chicken|2|False|490
+
+inserted Moo Goo Guy Pan|1|False|272
+
+is_empty() is False
+Moo Goo Guy Pan|1|False|272
+
+inserted Vegetable Alicha|3|True|138
+
+is_empty() is False
+Vegetable Alicha|3|True|138
+
+inserted Spanakopita|5|True|260
+
+is_empty() is False
+Spanakopita|5|True|260
+
+inserted Chirashi Don|6|False|600
+
+is_empty() is False
+Chirashi Don|6|False|600
+
+inserted Canuck Burger|0|False|7500
+
+is_empty() is False
+Canuck Burger|0|False|7500
+
+inserted Turducken|8|False|12240
+
+is_empty() is False
+Turducken|8|False|12240
+
+inserted Shark Fin Soup|1|False|46
+
+is_empty() is False
+Shark Fin Soup|1|False|46
+
+inserted Chamuco|4|True|150
+
+is_empty() is False
+Chamuco|4|True|150
+
+inserted Natto|6|True|212
+
+is_empty() is False
+Natto|6|True|212
+
+inserted Canada Goose Chili|0|False|199
+
+is_empty() is False
+Canada Goose Chili|0|False|199
+
+inserted Diet Free-Range Gluten-free Water|8|True|0
+
+is_empty() is False
+Diet Free-Range Gluten-free Water|8|True|0
+
+inserted Kung Pao Chicken|1|False|229
+
+is_empty() is False
+Kung Pao Chicken|1|False|229
+
+inserted General Tao Chicken|1|False|850
+
+is_empty() is False
+General Tao Chicken|1|False|850
+
+inserted Spicy Vegetable Moo Shu|1|True|140
+
+is_empty() is False
+Spicy Vegetable Moo Shu|1|True|140
+
+inserted BBQ Pork|1|False|920
+
+is_empty() is False
+BBQ Pork|1|False|920
+
+inserted Orange Chicken|1|False|800
+
+is_empty() is False
+Orange Chicken|1|False|800
+
+inserted Vegetables with Cashew Nuts|1|True|143
+
+is_empty() is False
+Vegetables with Cashew Nuts|1|True|143
+
+inserted Lemon Chicken|1|False|226
+
+is_empty() is False
+Lemon Chicken|1|False|226
+
+inserted Beef with Green Pepper|1|False|251
+
+is_empty() is False
+Beef with Green Pepper|1|False|251
+
+inserted Sweet and Sour Pork|1|False|231
+
+is_empty() is False
+Sweet and Sour Pork|1|False|231
+
+inserted Szechuan Shrimp|1|False|516
+
+is_empty() is False
+Szechuan Shrimp|1|False|516
+
+inserted Poutine|0|False|710
+
+is_empty() is False
+Poutine|0|False|710
+
+inserted Teppanyaki|6|False|200
+
+is_empty() is False
+Teppanyaki|6|False|200
+
+inserted Greek Salad|5|True|185
+
+is_empty() is False
+Greek Salad|5|True|185
+
+inserted Fettuccine|7|False|266
+
+is_empty() is False
+Fettuccine|7|False|266
+
+inserted Teriyaki|6|False|233
+
+is_empty() is False
+Teriyaki|6|False|233
+
+inserted Shortbread |9|True|502
+
+is_empty() is False
+Shortbread |9|True|502
+
+inserted Pavlova|10|True|272
+
+is_empty() is False
+Pavlova|10|True|272
+
+inserted Hokey Pokey Ice Cream|10|True|106
+
+is_empty() is False
+Hokey Pokey Ice Cream|10|True|106
+
+inserted Fricot|0|False|360
+
+is_empty() is False
+Fricot|0|False|360
+
+inserted Chip Butty|11|True|956
+
+is_empty() is False
+Chip Butty|11|True|956
+
+inserted Grilled Salmon|0|False|511
+
+is_empty() is False
+Grilled Salmon|0|False|511
+
+inserted Ravioli|7|False|246
+
+is_empty() is False
+Ravioli|7|False|246
+
+inserted Crepe|7|True|186
+
+is_empty() is False
+Crepe|7|True|186
+
+inserted Fried Rice|1|False|425
+
+is_empty() is False
+Fried Rice|1|False|425
+
+inserted Pepperoni Pizza|7|False|713
+
+is_empty() is False
+Pepperoni Pizza|7|False|713
+
+inserted Chicken Kabob|2|False|167
+
+is_empty() is False
+Chicken Kabob|2|False|167
+
+inserted Panzerotti|7|False|770
+
+is_empty() is False
+Panzerotti|7|False|770
+
+inserted Spring Rolls|1|True|200
+
+is_empty() is False
+Spring Rolls|1|True|200
+
+inserted Chicken Chow Mein|1|False|178
+
+is_empty() is False
+Chicken Chow Mein|1|False|178
+
+inserted Chicken Wings|8|False|298
+None
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------

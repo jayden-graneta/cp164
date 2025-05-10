@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a03\com.python.pydev.analysis\v2_indexcache
+functions|1706420451131289500|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\functions.py
+t01|1706409919567899800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t01.py
+t03|1706422979795746800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t03.py
+t02|1706420451290179600|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t02.py
+t05|1706423560812175300|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t05.py
+t04|1706423506970697500|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t04.py
+t07|1706423730176375200|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t07.py
+t06|1706423635550618200|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+2=functions
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\functions.py
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t05.py
+13=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t04.py
+9=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t03.py
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t02.py
+12=t01
+10=t03
+15=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t06.py
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t07.py
+8=t02
+6=t05
+14=t04
+4=t07
+11=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a03\src\t01.py
+16=t06
+-- END DICTIONARY
+-- START TREE 1
+12
+is_|1|is_palindrome_stack!1^64#5*18@
+maz|1|maze!3^17#1*35@
+ope|1|OPERATORS!1^15#1*19@
+pal|1|palindrome!5^16#1*51@
+pat|1|path!3^18#1*35@
+pos|1|postfix!1^94#5*18@
+s1|4|s1!7^16#1*67@s1!9^16#1*83@s1!11^16#1*99@s1!13^15#1*115@
+s2|2|s2!11^17#1*99@s2!7^17#1*67@
+s3|1|s3!11^20#1*99@
+sta|3|stack_combine!1^18#5*18@stack_maze!1^126#5*18@stack_reverse!1^44#5*18@
+str|2|string!5^15#1*51@string!15^15#1*131@
+x|2|x!15^16#1*131@x!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

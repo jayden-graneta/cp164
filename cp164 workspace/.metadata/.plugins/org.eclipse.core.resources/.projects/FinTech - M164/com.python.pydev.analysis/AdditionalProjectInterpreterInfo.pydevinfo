@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\FinTech - M164\com.python.pydev.analysis\v2_indexcache
+Processor|1709004977671329700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\Processor.py
+Word|1708537852000000000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\Word.py
+grade|1708539846000000000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\grade.py
+BigBook|1709004973496152800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\BigBook.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+6=Processor
+8=Word
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\Processor.py
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\BigBook.py
+15=BigBook.__init__
+16=BigBook.dict_rotate
+11=TestTwo.__init__
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\grade.py
+10=TestTwo
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\FinTech - M164\src\Word.py
+4=grade
+13=Processor.__init__
+14=Word.__init__
+2=BigBook
+9=TestOne
+12=TestOne.__init__
+-- END DICTIONARY
+-- START TREE 1
+6
+big|1|BigBook!1^44#7*17@
+for|1|format_output!3^290#5*34@
+pro|1|Processor!5^39#7*49@
+run|1|run!3^298#1*35@
+tes|2|TestTwo!3^112#7*33@TestOne!3^4#7*33@
+wor|1|Word!7^19#7*65@
+-- END TREE
+-- START TREE 2
+24
+__i|5|__init__!8&7^20#9*66@__init__!6&5^41#9*50@__init__!2&1^48#9*18@__init__!9&3^21#9*34@__init__!10&3^128#9*34@
+_is|1|_is_empty!6&5^115#9*50@
+_li|1|_linear_search_!2&1^60#9*18@
+_re|2|_read_line!2&1^320#9*18@_read_string!2&1^270#9*18@
+app|1|append!2&1^86#9*18@
+boo|3|book!11&3^132#9*35@bookTwo!11&3^134#9*35@bookOne!11&3^133#9*35@
+cod|1|CODE!2&1^45#5*19@
+cor|1|CORRECT!9&3^17#5*35@
+dic|1|dict_rotate!2&1^185#9*18@
+goo|1|GOOD!9&3^20#5*35@
+ins|2|insert!2&1^123#9*18@insert!6&5^56#9*50@
+mar|2|mark!12&3^29#9*35@mark!11&3^135#9*35@
+max|1|MAX_WORDS!2&1^46#5*19@
+pre|1|prepend!2&1^105#9*18@
+pri|1|print_out!8&7^34#9*66@
+que|2|queue!12&3^26#9*35@queueFin!12&3^27#9*35@
+rea|4|read_file!6&5^160#9*50@readExtra!2&1^346#9*18@read_fnTch!2&1^238#9*18@read_file!2&1^299#9*18@
+rem|3|remove!2&1^141#9*18@remove!6&5^75#9*50@remove_all!6&5^144#9*50@
+sta|2|stack!12&3^25#9*35@stack!13&5^54#9*51@
+sto|1|store!13&5^53#9*51@
+tes|12|TESTREVERSE!9&3^19#5*35@test_four!9&3^91#9*34@testFive!10&3^241#9*34@testTwo!10&3^175#9*34@test_one!9&3^32#9*34@TEST!9&3^18#5*35@testOne!10&3^140#9*34@test_two!9&3^43#9*34@test_three!9&3^66#9*34@testFour!10&3^218#9*34@testThree!10&3^190#9*34@testSix!10&3^259#9*34@
+uni|1|union!2&1^163#9*18@
+wor|3|word!14&7^32#9*67@words!15&1^58#9*19@words!16&1^203#9*19@
+wri|3|write_many!6&5^127#9*50@write_fnTch!2&1^207#9*18@write!6&5^94#9*50@
+-- END TREE

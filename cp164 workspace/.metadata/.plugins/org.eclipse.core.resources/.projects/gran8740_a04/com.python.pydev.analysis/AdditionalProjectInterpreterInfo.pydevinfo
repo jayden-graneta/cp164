@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a04\com.python.pydev.analysis\v2_indexcache
+functions|1707030831979144200|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\functions.py
+t01|1707030883077590900|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t01.py
+t03|1707031347213483400|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t03.py
+t02|1707031113008160000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t02.py
+t05|1707031861670625800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t05.py
+t04|1707031462340468700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t04.py
+t06|1707031949743284800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+11=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t03.py
+13=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t04.py
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t02.py
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t01.py
+4=functions
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t06.py
+9=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\t05.py
+8=t01
+12=t03
+2=t02
+10=t05
+14=t04
+6=t06
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a04\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+6
+equ|1|equals!1^19#1*19@
+pq_|1|pq_split_key!3^43#5*34@
+q|5|q!5^15#1*51@q!7^14#1*67@q!9^16#1*83@q!11^16#1*99@q!13^15#1*115@
+q1|1|q1!1^14#1*19@
+q2|1|q2!1^15#1*19@
+que|1|queue_split_alt!3^17#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

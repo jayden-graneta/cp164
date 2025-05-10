@@ -1,0 +1,211 @@
+"""
+-------------------------------------------------------
+Simple midterm testing.
+Test calls are commented out at the bottom of the module in __main__ section.
+Remove comment tag for any test you wish to execute.
+-------------------------------------------------------
+Author: Jayden Graneta
+ID:     169058740
+Email:  gran8740@mylaurier.ca
+__updated__ = "2024-06-12"
+-------------------------------------------------------
+"""
+# pylint: disable=E0303
+# pylint: disable=E1128
+# pylint: disable=E2515
+# pylint: disable=W0212
+# pylint: disable=W0613
+
+# Imports
+from List_array import List
+from Priority_Queue_array import Priority_Queue
+from Queue_array import Queue
+from functions_pq import pq_strip_key
+from functions_queue import queue_rotate, threads_weave
+from functions_stack import dicegame
+
+
+# Constants
+SEP = "-" * 60
+
+
+def print_values(name, source):
+    """
+    Prints data structure _values formatted as 'name: [source._values contents]'
+    """
+    print(f"{name}: [", end='')
+    for v in source:
+        print(f"{v}, ", end="")
+    print("]")
+    return
+
+
+def fill_queue(values):
+    """
+    Returns a Queue containing values
+    """
+    source = Queue()
+    for v in values:
+        source.insert(v)
+    return source
+
+
+def fill_pq(values):
+    """
+    Returns a Priority_Queue containing values
+    """
+    source = Priority_Queue()
+    for v in values:
+        source.insert(v)
+    return source
+
+
+def fill_list(values):
+    """
+    Returns a List containing values
+    """
+    source = List()
+    for v in values:
+        source.append(v)
+    return source
+
+
+def test_dicegame():
+    print("Test: dicegame")
+    print()
+    CASES = (
+        [],
+        [7, 6, 7, 9],
+        [4, 6, 12, 9, 7],
+        [7, 6, 3, 2, 6],
+        [7, 6, 3, 2, 6, 12],
+    )
+    for rolls in CASES:
+        total = dicegame(rolls)
+        print(f"total = dicegame({rolls})")
+        print(f"total = {total}")
+        print(SEP)
+
+
+def test_threads_weave():
+    print("Test: threads_weave")
+    print()
+    CASES = (
+        [[1, 2, 3, 4]],
+        [[1, 3, 6], [2, 4, 5, 1, 9, 7]],
+        [[1, 3, 6], [2, 5, 6, 8], [4]],
+    )
+    for case in CASES:
+        threads = []
+        print("threads: [")
+
+        for values in case:
+            source = fill_queue(values)
+            print_values("  thread._values", source)
+            threads.append(source)
+        print("]")
+        singleton = threads_weave(threads)
+        print("singleton = threads_weave(threads)")
+        print_values("singleton._values", singleton)
+        print(SEP)
+
+
+def test_queue_rotate():
+    print("Test: queue_rotate")
+    print()
+    values = [2, 5, 1, 7, 3, 9]
+    CASES = (0, 3, 7)
+
+    for n in CASES:
+        source = fill_queue(values)
+        print_values("source._values", source)
+        queue_rotate(source, n)
+        print(f"queue_rotate(source, {n})")
+        print_values("source._values", source)
+        print(SEP)
+    return
+
+
+def test_rotate_right():
+    print("Test: rotate_right")
+    print()
+    values = [4, 6, 2, 3, 9, 7]
+    CASES = (0, 1, -1, 3, -2)
+
+    for n in CASES:
+        source = fill_list(values)
+        print_values("source", source)
+        source.rotate_right(n)
+        print(f"source.rotate_right({n})")
+        print_values("rotated", source)
+        print(SEP)
+
+
+def test_adjacents_count():
+    print("Test: adjacents_count")
+    print()
+    CASES = (
+        [],
+        [99],
+        [3, 5, 8, 1, 8],
+        [3, 5, 8, 1, 1, 8],
+        [3, 5, 5, 5, 8, 1, 1, 8]
+    )
+    for values in CASES:
+        source = fill_list(values)
+        print_values("source", source)
+        count = source.adjacents_count()
+        print("count = source.adjacents_count()")
+        print(f"count = {count}")
+        print(SEP)
+
+    return
+
+
+def test_pq_strip_key():
+    print("Test: pq_strip_key")
+    print()
+    values = [4, 0, 5, 2, 3, 1]
+    CASES = (0, 6, 3)
+
+    for key in CASES:
+        source = fill_pq(values)
+        print_values("source", source)
+        pq_strip_key(source, key)
+        print(f"pq_strip_key(source, {key})")
+        print_values("source", source)
+        print(SEP)
+    return
+
+
+def test_strip_key():
+    print("Test: strip_key")
+    print()
+    values = [4, 0, 5, 2, 3, 1]
+    CASES = (0, 6, 3)
+
+    for key in CASES:
+        source = fill_pq(values)
+        print_values("source", source)
+        source.strip_key(key)
+        print(f"source.strip_key({key})")
+        print_values("source", source)
+        print(SEP)
+    return
+
+
+if __name__ == "__main__":
+    # Main code
+    # Uncomment lines as appropriate to execute tests
+    print("Testing")
+
+    # test_dicegame()
+
+    # test_threads_weave()
+    test_queue_rotate()
+
+    # test_pq_strip_key()
+    # test_strip_key()
+
+    # test_rotate_right()
+    # test_adjacents_count()

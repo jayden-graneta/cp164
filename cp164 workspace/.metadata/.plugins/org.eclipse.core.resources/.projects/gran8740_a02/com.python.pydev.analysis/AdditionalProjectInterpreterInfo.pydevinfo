@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a02\com.python.pydev.analysis\v2_indexcache
+t01|1705814491690137600|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t01.py
+t03|1705816850738111400|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t03.py
+t02|1705816840840168800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t02.py
+t05|1705817136116373800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t05.py
+t04|1705816945688647700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+4=t01
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t04.py
+9=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t03.py
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t05.py
+10=t03
+2=t02
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t01.py
+6=t05
+8=t04
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a02\src\t02.py
+-- END DICTIONARY
+-- START TREE 1
+5
+bun|5|bun!1^15#1*19@bun!3^15#1*35@bun!5^16#1*51@bun!7^16#1*67@bun!9^15#1*83@
+cal|1|cal_origins!9^21#1*83@
+che|5|cheese!1^17#1*19@cheese!3^17#1*35@cheese!9^17#1*83@cheese!7^18#1*67@cheese!5^18#1*51@
+foo|7|foods!5^22#1*51@food_list!9^19#1*83@food_list!3^19#1*35@food_list!1^19#1*19@food_list!5^20#1*51@foods!3^20#1*35@food_list!7^20#1*67@
+spr|5|spring_roll!9^16#1*83@spring_roll!3^16#1*35@spring_roll!1^16#1*19@spring_roll!5^17#1*51@spring_roll!7^17#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

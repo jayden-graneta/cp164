@@ -1,0 +1,43 @@
+"""
+-------------------------------------------------------
+Priority Queue Functions
+-------------------------------------------------------
+Author: Jayden Graneta
+ID:     169058740
+Email:  gran8740@mylaurier.ca
+__updated__ = "2024-06-12"
+-------------------------------------------------------
+"""
+# pylint: disable=E0303
+# pylint: disable=E1128
+# pylint: disable=E2515
+# pylint: disable=W0212
+# pylint: disable=W0613
+
+# Imports
+
+
+def pq_strip_key(source, key):
+    """
+    -------------------------------------------------------
+    Removes all values from source that have a priority less than key.
+    Use: pq_strip_key(source, key)
+    -------------------------------------------------------
+    Parameters:
+        source - a priority queue (Priority_Queue)
+        key - a key value (?)
+    Returns‌​‌​​​​‌​​‌‌‌​‌​​​​‌‌​‌‌​‌​​:
+        None
+    -------------------------------------------------------
+    """
+    while len(source) != 0:
+        if source._first < key:
+            source.pop(source._first)
+            source._set_first()
+        else:
+            if source.peek() < key:
+                source.remove()
+
+    return
+
+    # your code here

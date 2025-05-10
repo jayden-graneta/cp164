@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a08\com.python.pydev.analysis\v2_indexcache
+functions|1710637725099614400|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a08\src\functions.py
+t01|1710638327068800900|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a08\src\t01.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=functions
+4=t01
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a08\src\t01.py
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a08\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+com|1|comparison_total!1^54#5*18@
+do_|1|do_comparisons!1^17#5*18@
+let|1|letter_table!1^76#5*18@
+val|1|val!3^15#1*35@
+x|1|x!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

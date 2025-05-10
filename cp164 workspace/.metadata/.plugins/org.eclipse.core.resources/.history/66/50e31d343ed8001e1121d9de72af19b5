@@ -1,0 +1,28 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author: Jayden Graneta
+ID: 169058740
+Email: gran8740@mylaurier.ca
+__updated__ = "2024-03-01"
+-------------------------------------------------------
+"""
+# Imports
+from List_linked import List
+
+t1 = List()
+t2 = List()
+for x in range(10):
+    t1.append(x)
+    t2.append(x)
+
+print(t1.is_identical_r(t2))
+
+t3 = List()
+
+for x in range(10):
+    t3.append(x + 1)
+
+even, odd = l.split_alt()
+print(even._front._next._value, odd._front._next._value)

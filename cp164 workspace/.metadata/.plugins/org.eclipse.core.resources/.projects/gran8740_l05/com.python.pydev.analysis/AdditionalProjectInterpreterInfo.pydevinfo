@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l05\com.python.pydev.analysis\v2_indexcache
+functions|1707550973756630300|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\functions.py
+t01|1707551400256175600|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t01.py
+t03|1707551530776040000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t03.py
+t02|1707551483938585500|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t02.py
+t05|1707551619593254000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t05.py
+t04|1707551560053929400|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t04.py
+t06|1707551649719043300|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l05\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+6
+bag|1|bag_to_set!1^132#5*18@
+gcd|1|gcd!1^37#5*18@
+is_|1|is_palindrome!1^107#5*18@
+rec|1|recurse!1^16#5*18@
+to_|1|to_power!1^84#5*18@
+vow|1|vowel_count!1^58#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

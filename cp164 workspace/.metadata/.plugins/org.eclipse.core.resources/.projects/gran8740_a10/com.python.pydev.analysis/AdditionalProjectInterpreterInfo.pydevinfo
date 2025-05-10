@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a10\com.python.pydev.analysis\v2_indexcache
+t01|1711839291023139600|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t01.py
+t03|1711839718864753800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t03.py
+t02|1711839558573459600|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t02.py
+t04|1711840028577891000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=t01
+8=t03
+2=t02
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t03.py
+6=t04
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t02.py
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t04.py
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a10\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+2
+l|1|l!1^16#1*19@
+x|3|x!3^15#1*35@x!5^16#1*51@x!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

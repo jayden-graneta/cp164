@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_a01\com.python.pydev.analysis\v2_indexcache
+functions|1705204838480848700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\functions.py
+t01|1704841488389779100|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t01.py
+t03|1705184354153169800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t03.py
+t02|1705183505864434000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t02.py
+t05|1705195474429521100|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t05.py
+t04|1705195173192254700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t04.py
+t07|1705199735108520500|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t07.py
+t06|1705196252055975700|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t06.py
+t09|1705204838720568800|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t09.py
+t08|1705204392291027000|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t08.py
+4=functions
+8=t01
+7=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t01.py
+5=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\t04.py
+6=t04
+2=t08
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_a01\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+10
+a|1|a!1^19#1*19@
+cle|1|clean_list!3^16#5*34@
+dsm|1|dsmvwl!3^72#5*34@
+fil|1|file_analyze!3^95#5*34@
+fv|1|fv!5^15#1*51@
+is_|2|is_valid!3^155#5*34@is_leap_year!3^135#5*34@
+lis|1|list_subtraction!3^43#5*34@
+mat|2|matrixes_add!3^242#5*34@matrix_stats!3^205#5*34@
+max|1|max_diff!3^182#5*34@
+val|1|values!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

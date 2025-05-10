@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\gran8740_l09\com.python.pydev.analysis\v2_indexcache
+functions|1710525976869548900|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l09\src\functions.py
+t01|1710528501086336200|C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l09\src\t01.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l09\src\t01.py
+2=t01
+4=functions
+3=C:\Users\jayde\eclipse\ws\cp workspace\cp164 workspace\gran8740_l09\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+4
+con|1|content!1^19#1*19@
+fh|1|fh!1^17#1*19@
+fil|1|file!1^18#1*19@
+has|1|hash_table!3^16#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

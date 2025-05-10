@@ -1,0 +1,44 @@
+"""
+-------------------------------------------------------
+Stack Functions
+-------------------------------------------------------
+Author: Jayden Graneta
+ID:     169058740
+Email:  gran8740@mylaurier.ca
+__updated__ = "2024-06-12"
+-------------------------------------------------------
+"""
+# pylint: disable=E0303
+# pylint: disable=E1128
+# pylint: disable=E2515
+# pylint: disable=W0212
+# pylint: disable=W0613
+
+# Imports
+from Stack_array import Stack
+
+
+def dicegame(rolls):
+    """
+    -------------------------------------------------------
+    Determines the total of rolls of a pair of dice in a dice game.
+    A roll of 2 removes the previous roll and 12 removes all previous rolls.
+    Use: total = dicegame(rolls)
+    -------------------------------------------------------
+    Parameters:
+        rolls - a list of integers from 2 to 12 (list of int)
+    Returns‌​‌​​​​‌​​‌‌‌​‌​​​​‌‌​‌‌​‌​​:
+        total - sum of surviving rolls (int)
+    -------------------------------------------------------
+    """
+    total = 0
+
+    # your code here
+    while len(rolls) != 0:
+        if rolls.peek() == 2 or rolls.peek() == 12:
+            for x in range(len(rolls)):
+                rolls.pop()
+        else:
+            total += rolls.pop()
+
+    return total

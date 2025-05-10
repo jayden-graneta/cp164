@@ -1,0 +1,40 @@
+"""
+-------------------------------------------------------
+[Function list]
+-------------------------------------------------------
+Author: Jayden Graneta
+ID: 169058740
+Email: gran8740@mylaurier.ca
+__updated__ = "2024-01-09"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def clean_list(values):
+    """
+    -------------------------------------------------------
+    Removes all duplicate values from a list: values contains
+    only one copy of each of its integers. The order of values
+    must be preserved.
+    Use: clean_list(values)
+    -------------------------------------------------------
+    Parameters:
+        values - a list of integers (list of int)
+    Returns:
+        None
+    -------------------------------------------------------
+    """
+    single = set()
+    x = 0
+
+    while x < len(values):
+        if values[x] not in single:
+            single.add(values[x])
+            x += 1
+        else:
+            values.pop(x)
+
+    return
